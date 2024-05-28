@@ -1,0 +1,2 @@
+We can also push the folders/flies using
+SSH this is a demo of it
